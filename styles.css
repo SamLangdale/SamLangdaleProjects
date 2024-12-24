@@ -18,28 +18,8 @@ h1 {
     margin: auto;
     line-height: 125%;
     }
-.prolog {
-        float: left;
-        width: 20%;
-        margin: 10px;
-        padding:5%;
-        background:peachpuff;
-        border-radius: 5%;
-        text-align: center;
-    
-    }
-.risc-V {
-        float:right;
-        width: 20%;
-        margin: 10px;
-        padding:5%;
-        background:peachpuff;
-        border-radius: 5%;
-        text-align: center;
-    
-    }
-.Haskell {
-        float:inline-end;
+.project {
+        float: inline-end;
         width: 20%;
         margin: 10px;
         padding:5%;
